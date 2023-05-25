@@ -15,6 +15,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
     - [🚀 Live Demo](#live-demo)
+    - [ Presentation](#presentation)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -89,9 +90,16 @@ APIs
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [React Redux Group Project](https://react-redux-group-project.onrender.com/)
+- [React Capstone Project (Crypto Currencies)](https://crypto-currencies-gb1a.onrender.com)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Presentation -->
+
+## Presentation <a name="presentation"></a>
+
+- [Presentation](https://www.loom.com/share/d6a2893115fd41498ee9d015cc1e3c36)
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
