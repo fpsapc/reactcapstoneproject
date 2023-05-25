@@ -62,12 +62,11 @@ const CoinsList = () => {
         {coins.data.map((coin) => (
           <div key={coin.id} className="coinCard">
             <NavLink to="/detail" onClick={() => handleCoinClick(coin)}>
-              <div className="rightArrow">
-                <h2>
-                  {coin.name}
-                </h2>
-                <img className="rightArrowImg" src={arrowRight} alt="right arrow" />
-              </div>
+              <img className="rightArrowImg" src={arrowRight} alt="right arrow" />
+
+              <h2>
+                {coin.name}
+              </h2>
               <p className="text">
                 Symbol:
                 {' '}

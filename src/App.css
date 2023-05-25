@@ -36,6 +36,13 @@ body {
 
 .coinCard {
   background-color: #df4580;
+  height: 11rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  flex-direction: row;
+  position: relative;
+  text-align: right;
 }
 
 .coinCard a {
@@ -99,12 +106,9 @@ body {
   text-align: center;
 }
 
-.rightArrow {
-  display: flex;
-  justify-content: space-between;
-  color: #fff;
-}
-
 .rightArrowImg {
   margin-right: 10px;
+  position: absolute;
+  right: 0;
+  top: 13px;
 }
